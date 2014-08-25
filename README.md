@@ -1,9 +1,7 @@
 Serviço simplificado de AAA para sistemas
 =========================================
 
-## AAA
-
-__A__utenticação, __A__utorização e __A__uditoria
+## AAA (Autenticação, Autorização, Auditoria)
 
 Se propõe um dialeto de requisições sob HTTP que permite um sistema autenticar
 usuários e autorizar recursos sem a necessidade de transitar suas credenciais
